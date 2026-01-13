@@ -36,7 +36,7 @@ Click on any project to directly visit its folder 👇
 | Random Amount Generator    | [Open Folder](https://github.com/TejasDand/Python-Projects/tree/71ff23ff221afc6e5f50e5c3149cd001f213a8e0/Random-Amount-Generator "Random Amount Generator Project")       |
 | Robo Speaker               | [Open Folder](https://github.com/TejasDand/Python-Projects/tree/71ff23ff221afc6e5f50e5c3149cd001f213a8e0/Robo-Speaker "Robo Speaker Project")                             |
 | Slot Machine               | [Open Folder](https://github.com/TejasDand/Python-Projects/tree/71ff23ff221afc6e5f50e5c3149cd001f213a8e0/Slot-Machine "Slot Machine Game Project")                        |
-| Weather App                | [Open Folder](https://github.com/TejasDand/Python-Projects/tree/71ff23ff221afc6e5f50e5c3149cd001f213a8e0/Weather-App "Weather App Project")                               |
+| Weather App                | [Open Folder](https://github.com/TejasDand/Python-Projects/tree/c69fe0a093e6c8e54da88fbcc33fcb62ccca40b2/Weather-App "Weather App Project")                               |
 | Word Guessing Game         | [Open Folder](https://github.com/TejasDand/Python-Projects/tree/71ff23ff221afc6e5f50e5c3149cd001f213a8e0/Word-Guessing-Game "Word Guessing Game Project")                 |
 
 ---
