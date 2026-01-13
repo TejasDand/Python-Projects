@@ -25,3 +25,5 @@ while True:
     engine.setProperty('rate', 150)
     engine.say(f"The current weather in {city} is {w} degrees Celcius and wind speed is {wind_speed} kilometers per hour. Last updated at {updated}.")
     engine.runAndWait()
+
+# This app doesn't working anymore because of the limited and free uses of the API Key. API Key is expired.
